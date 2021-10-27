@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Midterm Project</string>
+    <string name="forgotPw"><a href="#">Forgot Password?</a></string>
+    <string name="signup"><a href="#">SIGN UP</a></string>
+
+</resources>
